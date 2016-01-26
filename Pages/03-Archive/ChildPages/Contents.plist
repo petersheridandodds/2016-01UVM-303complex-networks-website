@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict/>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-Topics</string>
+				<string>02-Episodes-and-Slides-Copy-00282014-010029</string>
+				<string>03-Episodes-Test</string>
+				<string>04-Episodes-Copy-00282011-010029</string>
+				<string>05-Episodes-Another-Test</string>
+				<string>06-Assignments-Copy-00282011-010029</string>
+				<string>07-Assignments-Copy-00282014-010029</string>
+				<string>08-Lectures-Copy</string>
+				<string>09-Fossilized-class-blog</string>
+				<string>10-Opportunities</string>
+				<string>11-Contact-Info</string>
+				<string>12-Notes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

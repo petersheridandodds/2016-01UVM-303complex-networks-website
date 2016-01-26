@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>CreatedDate</key>
+				<date>2015-08-26T21:38:48Z</date>
+				<key>CustomThemeName</key>
+				<string>Simple</string>
+				<key>ID</key>
+				<string>page5</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Links</string>
+				<key>PluginClassName</key>
+				<string>RWHTMLPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>HTML Code</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2016-01-26T01:17:55Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>files/conkslogo100_vintage.png</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							K7dRb7SMLILqNomEn9PQ
+							vw==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+						<key>index.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							ZHZJzyXjazHj6akkPczg
+							1g==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page5</string>
+					<key>SiteRoot</key>
+					<string>links</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

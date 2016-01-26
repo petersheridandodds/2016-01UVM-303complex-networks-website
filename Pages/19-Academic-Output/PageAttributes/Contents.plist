@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>Changed</key>
+				<false/>
+				<key>ColourStyles</key>
+				<dict>
+					<key>Alpha</key>
+					<dict/>
+					<key>Simple</key>
+					<dict/>
+				</dict>
+				<key>CreditRapidWeaver</key>
+				<true/>
+				<key>CustomCopyrightUsed</key>
+				<false/>
+				<key>CustomHeader</key>
+				<string>&lt;script type="text/javascript" src="switchcontent.js" &gt;&lt;/script&gt;
+
+&lt;script type="text/javascript" src="switchicon.js"&gt;
+
+/***********************************************
+* Switch Content script II (icon based)- © Dynamic Drive (www.dynamicdrive.com)
+* Requires switchcontent.js and included before this file!
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+&lt;/script&gt;
+
+&lt;style type="text/css"&gt;
+
+/*Default style for SPAN icons. Edit if desired: */
+
+.iconspan{
+float: right;
+margin: 0px;
+cursor:hand;
+cursor:pointer;
+font-weight: bold;
+}
+
+/*CSS used to style the examples. Remove if desired: */
+/* EEF5D3 */
+
+.eg-bar{
+background-color: #cccccc;
+/* font-weight: bold; */
+border: 1px solid black;
+padding: 3px;
+}
+
+.eg-baralt{
+background-color: #eeeeee;
+/* font-weight: bold; */
+border: 1px solid black;
+padding: 3px;
+}
+
+
+/* div.eg-bar{
+width: 500px;
+} */
+
+/ * .icongroup1{
+width: 500px;
+} */
+
+&lt;/style&gt;</string>
+				<key>CustomSiteTitleUsed</key>
+				<false/>
+				<key>CustomSloganUsed</key>
+				<false/>
+				<key>DefaultLinkTarget</key>
+				<string>self</string>
+				<key>FilenameExtension</key>
+				<string>html</string>
+				<key>FolderName</key>
+				<string>output</string>
+				<key>HasCustomThemeStyle</key>
+				<true/>
+				<key>ImageFormat</key>
+				<string>Original</string>
+				<key>ImageQuality</key>
+				<string>High</string>
+				<key>IndexFilename</key>
+				<string>index.html</string>
+				<key>OutputFormat</key>
+				<string>Tidied</string>
+				<key>OutputXMLDeclaration</key>
+				<false/>
+				<key>SidebarEnabled</key>
+				<integer>1</integer>
+				<key>TextEncoding</key>
+				<string>utf-8</string>
+				<key>ThemeStyles</key>
+				<dict>
+					<key>Business</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Blue</string>
+						<string>Width.Default Width (780px)</string>
+					</array>
+					<key>Simple</key>
+					<array>
+						<string>Sidebar.Right</string>
+						<string>Styles.Grey</string>
+						<string>Width.Default Width (700px)</string>
+					</array>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array>
+				<string>Sidebar.as</string>
+			</array>
+			<key>Subsandwiches</key>
+			<array/>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page Attributes</string>
+</dict>
+</plist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>HomePage</key>
+				<string>01-003Ci-class003D0022fa-fa-home-fa-2x0022003E003C002Fi003E</string>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>01-003Ci-class003D0022fa-fa-home-fa-2x0022003E003C002Fi003E</string>
+				<string>02-Template</string>
+				<string>03-Archive</string>
+				<string>04-Topics</string>
+				<string>05-Syllabus-0028pdf0029</string>
+				<string>06-Episodes-and-Slides</string>
+				<string>07-Episodes-and-Slides</string>
+				<string>08-Assignments</string>
+				<string>09-Assignments</string>
+				<string>10-Tweetage</string>
+				<string>11-Tweetage</string>
+				<string>12-Resources</string>
+				<string>13-Key-articles</string>
+				<string>14-Books-and-Resources</string>
+				<string>15-Links</string>
+				<string>16-Software</string>
+				<string>17-Data</string>
+				<string>18-Academic-Output</string>
+				<string>19-Academic-Output</string>
+				<string>20-Gallery</string>
+				<string>21-Gallery</string>
+				<string>22-Video-production</string>
+				<string>23-Video-production</string>
+				<string>24-Students0027-Comments</string>
+				<string>25-Comments</string>
+				<string>26-All-courses</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Pages</string>
+</dict>
+</plist>

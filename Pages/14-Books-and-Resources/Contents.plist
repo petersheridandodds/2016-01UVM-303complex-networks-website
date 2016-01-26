@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SandwichFillings</key>
+	<array>
+		<dict>
+			<key>Dictionary</key>
+			<dict>
+				<key>CreatedDate</key>
+				<date>2016-01-18T17:07:49Z</date>
+				<key>CustomThemeName</key>
+				<string>Simple</string>
+				<key>ID</key>
+				<string>page22</string>
+				<key>MostRecentlySelectedStyleName</key>
+				<string>Theme Default</string>
+				<key>PageTitle</key>
+				<string>Books and Resources</string>
+				<key>PluginClassName</key>
+				<string>RWHTMLPlugin</string>
+				<key>PluginMetadata</key>
+				<dict>
+					<key>Author</key>
+					<string>Realmac Software</string>
+					<key>Name</key>
+					<string>HTML Code</string>
+				</dict>
+				<key>PublishingManifest</key>
+				<dict>
+					<key>CreationDate</key>
+					<date>2016-01-26T01:17:55Z</date>
+					<key>DigestAlgorithm</key>
+					<string>MD5</string>
+					<key>PageDigests</key>
+					<dict>
+						<key>index.html</key>
+						<dict>
+							<key>Digest</key>
+							<data>
+							RSY3Rx2a51JGVvvrONY+
+							Qg==
+							</data>
+							<key>Size</key>
+							<integer>0</integer>
+						</dict>
+					</dict>
+					<key>PageID</key>
+					<string>page22</string>
+					<key>SiteRoot</key>
+					<string>resources</string>
+					<key>Version</key>
+					<integer>3</integer>
+				</dict>
+			</dict>
+			<key>Files</key>
+			<array/>
+			<key>Subsandwiches</key>
+			<array>
+				<string>Data</string>
+				<string>PageAttributes</string>
+			</array>
+		</dict>
+	</array>
+	<key>Type</key>
+	<string>Page</string>
+</dict>
+</plist>

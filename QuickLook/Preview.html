@@ -1,0 +1,101 @@
+<!doctype html>
+<html class="no-js">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+	<title>CocoNuTs: Complex Networks</title>
+
+    <meta name="theme-version" content="1.6.2" />
+    <meta name="foundation-version" content="5.5.3" />
+    <meta name="modernizr-version" content="2.8.3" />
+
+	
+<script type="text/javascript">// place your images in this array
+var random_images_array = ['tarot-card-complex-networks_225px.jpg','tarot-card-confusion-of-contagions_225px.jpg','tarot-card-contagious-stories_225px.jpg','tarot-card-data-poor_225px.jpg','tarot-card-dependent-paths_225px.jpg','tarot-card-disease-of-random-mixing_225px.jpg','tarot-card-efficient-language_225px.jpg','tarot-card-emergence-of-destruction_225px.jpg','tarot-card-emergence-of-stories_225px.jpg','tarot-card-emergence-of-structure_225px.jpg','tarot-card-emergence-of-thinking_225px.jpg','tarot-card-end_225px.jpg','tarot-card-fame_225px.jpg','tarot-card-golden-age-of-reductionism_225px.jpg','tarot-card-john-dory_225px.jpg','tarot-card-landscapes-of-forking-paths_225px.jpg','tarot-card-law-of-first-digits_225px.jpg','tarot-card-law-of-optimal-forks_225px.jpg','tarot-card-laws-of-branching_225px.jpg','tarot-card-manifesto_225px.jpg','tarot-card-mechanics-statistical_225px.jpg','tarot-card-misreading-of-the-book-of-sand_225px.jpg','tarot-card-networks-of-blood_225px.jpg','tarot-card-orders-of-streams_225px.jpg','tarot-card-overview_225px.jpg','tarot-card-paths-of-universality_225px.jpg','tarot-card-pouring-data_225px.jpg','tarot-card-power-law-size-distributions_225px.jpg','tarot-card-random-networks_225px.jpg','tarot-card-random-walks_225px.jpg','tarot-card-rich-get-richer_225px.jpg','tarot-card-scale-free-networks_225px.jpg','tarot-card-scaling_225px.jpg','tarot-card-small-world-networks_225px.jpg','tarot-card-social-contagion_225px.jpg','tarot-card-social-wild_225px.jpg','tarot-card-strangeness-of-friends_225px.jpg','tarot-card-surprise-of-being-robust-yet-fragile_225px.jpg','tarot-card-tales-of-tails_225px.jpg','tarot-card-theory-six-degrees_225px.jpg','tarot-card-thresholds-of-percolation_225px.jpg','tarot-card-thresholds-of-the-mind_225px.jpg','tarot-card-trees-of-reality_225px.jpg','tarot-card-unending-pandemics_225px.jpg','tarot-card-unknown-mechanism_225px.jpg','tarot-card-variable-transformation_225px.jpg','tarot-card-web-elements_225px.jpg'];function getRandomImage(imgAr, path) {    path = path || '../docs/'; // default path here    var num = Math.floor( Math.random() * imgAr.length );    var img = imgAr[ num ];    var imgStr = '<img src="' + path + img + '" alt = "">';    document.write(imgStr); document.close();}</script><script type="text/javascript">// place your images in this array
+var random_images_array = ['tarot-card-complex-networks_225px.jpg','tarot-card-confusion-of-contagions_225px.jpg','tarot-card-contagious-stories_225px.jpg','tarot-card-data-poor_225px.jpg','tarot-card-dependent-paths_225px.jpg','tarot-card-disease-of-random-mixing_225px.jpg','tarot-card-efficient-language_225px.jpg','tarot-card-emergence-of-destruction_225px.jpg','tarot-card-emergence-of-stories_225px.jpg','tarot-card-emergence-of-structure_225px.jpg','tarot-card-emergence-of-thinking_225px.jpg','tarot-card-end_225px.jpg','tarot-card-fame_225px.jpg','tarot-card-golden-age-of-reductionism_225px.jpg','tarot-card-john-dory_225px.jpg','tarot-card-landscapes-of-forking-paths_225px.jpg','tarot-card-law-of-first-digits_225px.jpg','tarot-card-law-of-optimal-forks_225px.jpg','tarot-card-laws-of-branching_225px.jpg','tarot-card-manifesto_225px.jpg','tarot-card-mechanics-statistical_225px.jpg','tarot-card-misreading-of-the-book-of-sand_225px.jpg','tarot-card-networks-of-blood_225px.jpg','tarot-card-orders-of-streams_225px.jpg','tarot-card-overview_225px.jpg','tarot-card-paths-of-universality_225px.jpg','tarot-card-pouring-data_225px.jpg','tarot-card-power-law-size-distributions_225px.jpg','tarot-card-random-networks_225px.jpg','tarot-card-random-walks_225px.jpg','tarot-card-rich-get-richer_225px.jpg','tarot-card-scale-free-networks_225px.jpg','tarot-card-scaling_225px.jpg','tarot-card-small-world-networks_225px.jpg','tarot-card-social-contagion_225px.jpg','tarot-card-social-wild_225px.jpg','tarot-card-strangeness-of-friends_225px.jpg','tarot-card-surprise-of-being-robust-yet-fragile_225px.jpg','tarot-card-tales-of-tails_225px.jpg','tarot-card-theory-six-degrees_225px.jpg','tarot-card-thresholds-of-percolation_225px.jpg','tarot-card-thresholds-of-the-mind_225px.jpg','tarot-card-trees-of-reality_225px.jpg','tarot-card-unending-pandemics_225px.jpg','tarot-card-unknown-mechanism_225px.jpg','tarot-card-variable-transformation_225px.jpg','tarot-card-web-elements_225px.jpg'];function getSmallRandomImage(imgAr, path) {    path = path || '../docs/'; // default path here    var num = Math.floor( Math.random() * imgAr.length );    var img = imgAr[ num ];    var imgStr = '<img height=50 src="' + path + img + '" alt = "">';    document.write(imgStr); document.close();}</script>
+
+<style>
+
+div#pageHeader h1 {
+    font-size: 30px;
+    line-height:&nbsp;24px;
+    align: left;
+}
+
+div#pageHeader h2 {
+    font-size: 14px;
+    align: left;
+}
+
+
+h2 {
+    font-size: 24px;
+    align: left;
+}
+
+h3 {
+    font-size: 20px;
+    align: left;
+}
+
+
+p {
+    font-size: 16px;
+   line-height:&nbsp;20px;
+    color:  #333333;
+    align: left;
+}
+
+div {
+    font-size: 16px;
+   line-height:&nbsp;20px;
+    color:  #333333;
+    align: left;
+}
+
+ol {
+    font-size: 16px;
+     color:  #777777;
+}
+ul {
+    font-size: 16px;
+     color:  #777777;
+}
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="generator" content="RapidWeaver" />
+		<link rel="icon" href="http://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/favicon.ico" type="image/x-icon" />
+		<link rel="shortcut icon" href="http://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/favicon.ico" type="image/x-icon" />
+		
+
+	<link rel="stylesheet" type="text/css" media="all" href="consolidated.css" />
+		
+	<script>var foundation={};</script>
+	<script>function loadCSS(a,b,c){"use strict";var d=window.document.createElement("link"),e=b||window.document.getElementsByTagName("script")[0],f=window.document.styleSheets;return d.rel="stylesheet",d.href=a,d.media="only x",e.parentNode.insertBefore(d,e),d.onloadcssdefined=function(a){for(var b,c=0;c<f.length;c++)f[c].href&&f[c].href===d.href&&(b=!0);b?a():setTimeout(function(){d.onloadcssdefined(a)})},d.onloadcssdefined(function(){d.media=c||"all"}),d}</script>
+
+	
+
+	
+	<script>var jQuery=stacks.jQuery,$=jQuery;﻿</script>
+	<style type="text/css" media="all">@media only screen and (max-width: 50em) { 
+.jack-wrapper h1 small {
+display:block;
+margin-bottom:1rem;
+}
+
+}</style>
+</head>
+
+<body class="antialiased">
+
+<div id="foundation-loader"></div>
+
+<style>html *{width:0 !important;height:0 !important;display:0 !important;position:absolute !important;background-image:0 !important;background-color:white !important;float:none !important;margin:0 !important;padding:0 !important; border:0 !important; color:#fff !important; text-shadow:none !important; font-size:0px !important; font-family:helvetica !important; } body {width:600px !important;height:800px !important;position:relative !important;display:block !important;background-image:url('files/stacks.png') !important;background-position:center center !important;background-size:512px 512px !important;background-repeat:no-repeat !important;}</style>
+
+<script src="foundation.js"></script>
+
+
+</body>
+</html>
